@@ -2,4 +2,4 @@ import UIKit
 
 var greeting = "Hello, playground"
 
-var name="IOS courses"
+var name="Ankitha reddy - IOS course"
